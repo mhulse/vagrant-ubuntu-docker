@@ -1,6 +1,6 @@
 # vagrant-ubuntu-docker
 
-**Vagrant Ubuntu box with docker Apache/PHP-5.6**
+**Vagrant Ubuntu box with docker Apache/PHP**
 
 **Note:** The intended use of this VM is for **local development only!** Do not put this environment on a public network or use it for configuring external web servers without implementing additional security enhancements.
 
